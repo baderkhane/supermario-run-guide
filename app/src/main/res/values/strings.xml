@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Super Mario Run</string>
+    <string name="kingdom_builder">The Mushroom Kingdom starts out small, but it’s actually possible to expand your Toad empire. Once you have enough red, green and blue Toads from progressing through the levels and winning in Toad Rally, you can use coins to buy the “Rainbow Bridge” item in the special section of the Build menu shop. These add screens to your Mushroom Kingdom, creating room for expansion.
+\n Read more: http://www.digitaltrends.com/gaming/super-mario-run-tips-tricks/#ixzz4T34hOmBz</string>
+    <string name="levels"><![CDATA[<b>Super Mario Run World 1</b><br/> Super Mario Run is listed as a free game in the App Store, but the free version is really just a demo. The game’s first three levels, 1-1, 1-2, and 1-3, are available completely free of charge, but to finish the end of World 1 and complete your first castle stage, you’ll have to fork over $10. This one-time payment gets you access to all six of the game’s worlds — 24 stages in total.  ]]></string>
+    <string name="shop"></string>
+    <string name="enemies"></string>
+
+    <string name="youtube_level_1"><![CDATA[https://www.youtube.com/watch?v=Lgy1pnuFPeg ]]></string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+</resources>
